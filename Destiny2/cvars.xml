@@ -3,8 +3,8 @@
 	<namespace name="graphics">
 		<cvar name="force_auto_detect" value="0" />
 		<cvar name="force_enable_multi_threaded_render_submit" value="0" />
-		<cvar name="window_position_x" value="108" />
-		<cvar name="window_position_y" value="571" />
+		<cvar name="window_position_x" value="118" />
+		<cvar name="window_position_y" value="625" />
 		<cvar name="window_mode" value="2" />
 		<cvar name="anti_aliasing_mode" value="1" />
 		<cvar name="dof_mode" value="1" />
@@ -48,7 +48,7 @@
 		<cvar name="heavy_attack" value="right mouse button!unused" />
 		<cvar name="block" value="c!unused" />
 		<cvar name="switch_weapons" value="`!unused" />
-		<cvar name="next_weapon" value="-!unused" />
+		<cvar name="next_weapon" value="unused!unused" />
 		<cvar name="previous_weapon" value="=!unused" />
 		<cvar name="primary_weapon" value="1!extra mouse button 1" />
 		<cvar name="special_weapon" value="2!extra mouse button 2" />
@@ -76,7 +76,7 @@
 		<cvar name="emote_4" value="right!unused" />
 		<cvar name="air_move" value="x!unused" />
 		<cvar name="class_ability" value="alt!unused" />
-		<cvar name="stasis_breakout" value="unused!unused" />
+		<cvar name="stasis_breakout" value="alt!unused" />
 		<cvar name="death_cam_zoom_in" value="mouse wheel up!unused" />
 		<cvar name="death_cam_zoom_out" value="mouse wheel down!unused" />
 		<cvar name="push_to_talk" value="l!unused" />
